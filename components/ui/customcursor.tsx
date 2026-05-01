@@ -5,7 +5,7 @@
 /* 04 */ const isHoverCapable = typeof window !== "undefined" && window.matchMedia && window.matchMedia("(hover: hover) and (pointer: fine)").matches;
 /* 05 */ const DEBOUNCE_MS = 12;
 /* 06 */
-/* 07 */ export default function CustomCursor(): JSX.Element {
+/* 07 */ export default function CustomCursor() {
   /* 08 */ const cursorRef = useRef<HTMLDivElement | null>(null);
   /* 09 */ const rafRef = useRef<number | null>(null);
   /* 10 */ const lastPos = useRef({ x: -9999, y: -9999 });
