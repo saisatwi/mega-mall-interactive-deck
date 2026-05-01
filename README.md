@@ -1,7 +1,7 @@
 # 🏛️ PROJECT: GRAND HORIZON | THE IMMERSIVE SALES ENGINE
 ### *Engineering the "I Need to Be Here" Psychological Paradigm*
 
-[![Production: Live](https://img.shields.io/badge/Vercel-Live_Production-black?style=for-the-badge&logo=vercel)](https://mega-mall-interactive-deck.vercel.app)
+# Production Link: https://mega-mall-interactive-deck.vercel.app/
 
 ## Executive Summary
 **Grand Horizon** is a high-stakes digital twin of a $1.2B mixed-use development. As a **Senior Frontend Engineer**, my mandate was to move beyond "functional software" and engineer a **State of Mind**. 
