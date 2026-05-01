@@ -49,8 +49,8 @@ Utilizing Framer Motion spring physics rather than linear easing to create a "ma
 
 # Getting Started
 Install: npm install
+
 Run: npm run dev
+
 Deploy: Optimized for Vercel Edge functions.
 
-
-# Developed by Sai Satwik STK.
