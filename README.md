@@ -40,7 +40,7 @@ Utilizing Framer Motion spring physics rather than linear easing to create a "ma
 
 ## 📁 Directory Structure
 ├── app/
-│   ├── page.tsx       # Core Interactive Deck (600+ lines of custom logic)
+│   ├── page.tsx       # Core Interactive Deck
 │   ├── layout.tsx     # Global SEO & Metadata
 │   └── globals.css    # Luxury Theme & Design System
 ├── public/
